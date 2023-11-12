@@ -5,8 +5,7 @@
 📊A passionate future Data Analyst from India<br>
 🌱 I’m currently learning Machine Learning, Qlik Sense<br>
 💬 Ask me about:- Excel,Python,Numpy,Pandas,Data Visluaization, Data Cleaning,Data Manipulation,Data Analytics, Intrepretation and Analyze of Data<br>
-📫 How to reach me :- SheikTheAnalyst@gmail.com<br>⚡ Fun fact : I always make happy others<br> From: Bengaluru, India<br><br>
-🗺️Location :- Bengaluru, India
+📫 How to reach me :- SheikTheAnalyst@gmail.com<br>⚡ Fun fact : I always make happy others<br>🗺️Location :- Bengaluru, India<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.sheik_mohamed.>___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheik-mohamed-2b1921286) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@SheikMohamedS) 
